@@ -1,0 +1,4 @@
+- insert:
+    - id: web-search-limits
+      name: '@local/dsh-web-search-limits'
+      config: {}

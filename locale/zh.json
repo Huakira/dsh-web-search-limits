@@ -1,0 +1,1 @@
+{ "meta": { "title": "联网搜索上限", "description": "按 agent 覆盖 web_search 工具,把上限提到默认 100 条结果、6 个查询。" } }

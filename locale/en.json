@@ -1,0 +1,1 @@
+{ "meta": { "title": "Web search limits", "description": "Raises web_search caps (default 100 sources, 6 queries) by shadowing the tool per agent." } }
