@@ -13,7 +13,7 @@ DSH 的搜索上限是预设里嵌套的配置，补丁机制只能整段覆盖�
 ## 安装 / Install
 
 ```bash
-dsh plugin --profile web add @huakira/web-search-limits
+dsh plugin --profile web add @huakirax/web-search-limits
 # 本地开发：dsh plugin add /path/to/dsh-web-search-limits
 ```
 
