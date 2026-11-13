@@ -1,5 +1,7 @@
 # dsh-web-search-limits
 
+> 个人自用插件，代码和文档由 AI 参与编写，不承诺维护。使用前请先备份 DSH 配置。
+
 DeepSeek Harness (DSH) 插件：按 agent 覆盖 `web_search` 工具，把上限提到默认 100 条结果、6 个查询，并支持在 Plugins 页里调整。
 
 A DeepSeek Harness plugin that shadows `web_search` per agent to raise its caps (defaults: 100 sources, 6 queries per call), adjustable from the Plugins page.
