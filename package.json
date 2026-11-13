@@ -1,5 +1,5 @@
 {
-  "name": "@local/dsh-web-search-limits",
+  "name": "@huakira/web-search-limits",
   "version": "0.2.0",
   "private": true,
   "type": "module",
@@ -27,5 +27,26 @@
         "@deepseek-ai/dsh-client-ui-plugin-manager"
       ]
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huakira/dsh-web-search-limits.git"
+  },
+  "author": {
+    "name": "Huakira",
+    "email": "huakexie@proton.me"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "dsh": ">=0.2.2-rc.1 <0.3.0",
+    "node": ">=20"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness"
+  ]
 }
