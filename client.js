@@ -1,9 +1,9 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-web-search-limits',
+  id: '@huakirax/dsh-web-search-limits',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
-    const KEY = '@local/dsh-web-search-limits#web-search-limits';
+    const KEY = '@huakirax/dsh-web-search-limits#web-search-limits';
     const zh = (navigator.language || '').toLowerCase().startsWith('zh');
     const T = zh ? {
       summary: '调整 web_search 的结果数、查询数和摘要长度上限。',
