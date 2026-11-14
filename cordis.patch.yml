@@ -1,4 +1,4 @@
 - insert:
     - id: web-search-limits
-      name: @huakirax/web-search-limits
+      name: @huakirax/dsh-web-search-limits
       config: {}
